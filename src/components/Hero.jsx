@@ -12,8 +12,8 @@ const Hero = () => {
           <div className="w-1 sm:h-80 h-40 violet-gradient" />
         </div>
         <div>
-          <h2 className={`${styles.heroHeadText} text-white`}
-          >Hi, I&#39;am <span className="text-[#ffd93d]">Michael</span></h2>
+          <h3 className={`${styles.heroHeadText} text-white`}
+          >Hi, I&#39;am <span className="text-[#ffd93d]">Michael</span></h3>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I develop single page website and web <br className="sm:block hidden" /> applications with back-end technology <br className="sm:block hidden" /> using ReactJS, Django, and experienced in <br className="sm:block hidden" /> HTML5, CSS3 and JavaScript.
           </p>
@@ -21,7 +21,7 @@ const Hero = () => {
       </div>  
       <ComputersCanvas /> 
 
-      <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
+      <div className="absolute xs:bottom-1 bottom-32 w-full flex justify-center items-center">
         <a href="#about">
           <div className="w-[35px] h-[84px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2">
             <motion.div 
@@ -29,7 +29,7 @@ const Hero = () => {
                 y: [0, 48, 0]
               }}
               transition={{
-                duration: 0.5,
+                duration: 1.5,
                 repeat: Infinity,
                 repeatType: 'loop'
               }}
