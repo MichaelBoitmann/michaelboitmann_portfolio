@@ -13,13 +13,31 @@ const Hero = () => {
         </div>
         <div>
           <h2 className={`${styles.heroHeadText} text-white`}
-          >Hi, I am <span className="text-[#ffd93d]">Michael</span></h2>
+          >Hi, I&#39;am <span className="text-[#ffd93d]">Michael</span></h2>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I develop single page website and web <br className="sm:block hidden" /> applications with back-end technology <br className="sm:block hidden" /> using ReactJS, Django, and experienced in <br className="sm:block hidden" /> HTML5, CSS3 and JavaScript.
           </p>
         </div>
       </div>  
-      <ComputersCanvas />  
+      <ComputersCanvas /> 
+
+      <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
+        <a href="#about">
+          <div className="w-[35px] h-[84px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2">
+            <motion.div 
+              animate={{
+                y: [0, 48, 0]
+              }}
+              transition={{
+                duration: 0.5,
+                repeat: Infinity,
+                repeatType: 'loop'
+              }}
+              className="w-3 h-3 rounded-full bg-secondary mb-1"
+            />
+          </div>
+        </a>
+      </div> 
     </section>
   )
 }
