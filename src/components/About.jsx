@@ -26,6 +26,7 @@ const ServiceCard = ({ index, title, icon }) => {
         >
           <img src={icon} alt={title} 
             className='w-16 h-16 object-contain' />
+          <h3>{title}</h3>
         </div>
 
       </motion.div>
