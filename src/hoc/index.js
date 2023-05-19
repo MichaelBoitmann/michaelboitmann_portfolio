@@ -1,3 +1,3 @@
-import SectionWrapper from './SEctionWrapper';
+import SectionWrapper from './SectionWrapper';
 
 export { SectionWrapper }
