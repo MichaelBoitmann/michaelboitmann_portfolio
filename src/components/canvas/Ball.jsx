@@ -3,11 +3,17 @@
 /* eslint-disable react/no-unknown-property */
 import React, { Suspense } from 'react'
 import { Canvas } from '@react-three/fiber'
-import { Decal, Float, OrbitControls, Preload, useTexture } from '@react-three/drei'
+import { 
+  Decal, 
+  Float, 
+  OrbitControls, 
+  Preload, 
+  useTexture 
+} from '@react-three/drei'
 
 import CanvasLoader from '../Loader';
 
-const Ball = () => {
+const Ball = (props) => {
   const [decal] = useTexture([props.imgUrl])
   
   return (
@@ -18,17 +24,21 @@ const Ball = () => {
         <icosahedronGeometry args={[1, 1]} />
         <meshStandardMaterial
           color="#fff8eb"
-          polygonOffeset
+          polygonOffset
           polygonOffsetFactor={-5}
           flatShading
         />
         <Decal 
-          position={[0, 0, 0]}
+          position={[0, 0, 1]}
+          rotation={[ 2*Math.PI, 0, 6.25]}
+          scale={1}
+          flatShading
+          map={decal}
         />
       </mesh>
     </Float>
-  )
-}
+  );
+};
 
 const BallCanvas = ({ icon }) => {
   return (
@@ -47,4 +57,4 @@ const BallCanvas = ({ icon }) => {
 }
 
 
-export default SectionWrapper(Ball, "");
+export default BallCanvas;
