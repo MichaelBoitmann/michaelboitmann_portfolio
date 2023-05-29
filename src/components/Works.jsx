@@ -6,6 +6,14 @@ import { github } from '../assets';
 import {  SectionWrapper } from '../hoc';
 import { fadeIn, textVariant } from '../utils/motion';
 
+const ProjectCard = ({ index, name, description, tags, image, source_code_link }) => {
+  return (
+    <motion.div>
+      test
+    </motion.div>
+  )
+}
+
 const Works = () => {
   return (
     <>
