@@ -1,7 +1,11 @@
 # My 3D Portfolio Project
 
 
+<summary>
 
+# :notebook_with_decorative_cover: Table of Contents
+
+</summary>
 
 - [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
   - [:star2: About the Project](#star2-about-the-project)
