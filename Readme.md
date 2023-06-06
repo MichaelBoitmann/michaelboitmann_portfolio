@@ -35,21 +35,28 @@ MichaelBoitmann_Portfolio/
 ### :gear: Installation
 
 #### Step 1:
-Download or clone this repo by using the link below:
+Use the link below to download or clone this repo:
 
 ```bash
  https://github.com/MichaelBoitmann/michaelboitmann_portfolio.git
 ```
 
 #### Step 2:
+Go to the new folder of the cloned repo:
 
-3D-Portfolio using NPM (Node Package Manager), therefore, make sure that Node.js is installed by execute the following command in console:
+```bash
+ cd michaelboitmann_portfolio
+```
+
+#### Step 3:
+
+Check your node version by typing the command below. Node.JS is required to execute npm :
 
 ```bash
   node -v
 ```
 
-#### Step 3:
+#### Step 4:
 
 At the main folder execute the following command in console to get the required dependencies:
 
@@ -57,7 +64,7 @@ At the main folder execute the following command in console to get the required 
   npm install
 ```
 
-#### Step 4:
+#### Step 5:
 
 At the main folder execute the following command in console to creates a build directory with a production build of 3d portfolio:
 
@@ -65,7 +72,7 @@ At the main folder execute the following command in console to creates a build d
   npm run build
 ```
 
-#### Step 5:
+#### Step 6:
 
 At the main folder execute the following command in console to run the server:
 
