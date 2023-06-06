@@ -8,11 +8,11 @@
  <h4>
     <a href="https://michaelboitmann-portfolio.onrender.com/" target="_blank">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio">Documentation</a>
+    <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio" target="_blank">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio/issues">Report Bug</a>
+    <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio/issues" target="_blank">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio/issues">Request Feature</a>
+    <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio/issues" target="_blank">Request Feature</a>
   </h4>
 </div>
 
