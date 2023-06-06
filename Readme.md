@@ -1,5 +1,8 @@
 # My 3D Portfolio Project
 
+![image](https://github.com/MichaelBoitmann/michaelboitmann_portfolio/assets/55775047/a7e46e0a-4c45-4c62-a098-ac1404c3f5aa)
+
+
 ### :bangbang: Folder Structure
 
 Here is the folder structure of 3D-Portfolio.
