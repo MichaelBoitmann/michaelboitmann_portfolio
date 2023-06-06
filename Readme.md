@@ -1,10 +1,5 @@
 # My 3D Portfolio Project
 
-# :notebook_with_decorative_cover: Table of Contents
-
-</summary>
-
-
 ### :bangbang: Folder Structure
 
 Here is the folder structure of 3D-Portfolio.
