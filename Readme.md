@@ -1,32 +1,20 @@
 # My 3D Portfolio Project
 ![image](https://github.com/MichaelBoitmann/michaelboitmann_portfolio/assets/55775047/dd939431-2693-4498-a23d-481185c0220e)
 
-
-### :bangbang: Folder Structure
-
-Here is the folder structure of 3D-Portfolio.
-```bash
-MichaelBoitmann_Portfolio/
-|- public/
-|- src/
-  |-- assets/
-  |-- components/
-  |-- constants/
-  |-- hoc/
-  |-- utils/
-  |-- App.jsx
-  |-- index.css
-  |-- main.jsx
-  |-- styles.js
-|- package.json  
-|- postcss.config.cjs
-|- tailwind.config.cjs
-|- vite.config.js
-```
-
 ### :space_invader: Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,threejs,tailwind,emailjs,vite,render)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,threejs,tailwind,vite,render)](https://skillicons.dev)
+
+ <h4>
+    <a href="https://threejs-3-d-portfolio.vercel.app/">View Demo</a>
+  <span> · </span>
+    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">Request Feature</a>
+  </h4>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,4 +89,27 @@ At the main folder execute the following command in console to run the developme
   npm run dev
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### :bangbang: Folder Structure
+
+Here is the folder structure of 3D-Portfolio.
+```bash
+MichaelBoitmann_Portfolio/
+|- public/
+|- src/
+  |-- assets/
+  |-- components/
+  |-- constants/
+  |-- hoc/
+  |-- utils/
+  |-- App.jsx
+  |-- index.css
+  |-- main.jsx
+  |-- styles.js
+|- package.json  
+|- postcss.config.cjs
+|- tailwind.config.cjs
+|- vite.config.js
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
