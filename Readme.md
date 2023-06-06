@@ -1,6 +1,6 @@
 # My 3D Portfolio Project
+![image](https://github.com/MichaelBoitmann/michaelboitmann_portfolio/assets/55775047/dd939431-2693-4498-a23d-481185c0220e)
 
-![image](https://github.com/MichaelBoitmann/michaelboitmann_portfolio/assets/55775047/1e54e779-273c-48d5-b687-eadf8dc660ee)
 
 ### :bangbang: Folder Structure
 
