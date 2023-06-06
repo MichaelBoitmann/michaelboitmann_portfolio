@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,js,threejs,tailwind,vite,render)](https://skillicons.dev)
 
  <h4>
-    <a href="https://michaelboitmann-portfolio.onrender.com/">View Demo</a>
+    <a href="https://michaelboitmann-portfolio.onrender.com/" target="_blank">View Demo</a>
   <span> · </span>
     <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio">Documentation</a>
   <span> · </span>
