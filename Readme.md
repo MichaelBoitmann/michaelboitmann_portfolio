@@ -6,13 +6,13 @@
 [![My Skills](https://skillicons.dev/icons?i=react,js,threejs,tailwind,vite,render)](https://skillicons.dev)
 
  <h4>
-    <a href="https://threejs-3-d-portfolio.vercel.app/">View Demo</a>
+    <a href="https://michaelboitmann-portfolio.onrender.com/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio">Documentation</a>
+    <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">Report Bug</a>
+    <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">Request Feature</a>
+    <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio/issues">Request Feature</a>
   </h4>
 </div>
 
