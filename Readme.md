@@ -26,7 +26,7 @@ MichaelBoitmann_Portfolio/
 
 ### :space_invader: Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,threejs,tailwind,emailjs,vite,render)](https://skillicons.dev)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
