@@ -91,6 +91,17 @@ At the main folder execute the following command in console to run the developme
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Learning Technology
+
+* <strong>ThreeJS</strong> - a powerful 3D graphics library for rendering and animating the 3D model
+* <strong>React Three Fiber</strong> - a popular library for creating 3D graphics with ThreeJS in React
+* <strong>TailwindCSS</strong> - a popular utility-first CSS styling framework
+* <strong>Framer Motion</strong> - the most popular library used to bring your React website to life with animations You'll also learn how to:
+* Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
+* Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
+* Implement sending emails through a form on the website
+* Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+
 ### :bangbang: Folder Structure
 
 Here is the folder structure of 3D-Portfolio.
