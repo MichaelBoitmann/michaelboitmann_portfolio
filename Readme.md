@@ -1,8 +1,8 @@
-<a name="readme-top"></a>
-<div align="center">
  # My 3D Portfolio Project
  ![image](https://github.com/MichaelBoitmann/michaelboitmann_portfolio/assets/55775047/dd939431-2693-4498-a23d-481185c0220e)
 
+<a name="readme-top"></a>
+<div align="center">
  ### :space_invader: Tech Stack
 
  [![My Skills](https://skillicons.dev/icons?i=react,js,threejs,tailwind,vite,render)](https://skillicons.dev)
