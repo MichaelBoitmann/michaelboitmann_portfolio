@@ -91,6 +91,9 @@ At the main folder execute the following command in console to run the developme
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Learning Technology
+<ol> ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model</ol>
+
 ### :bangbang: Folder Structure
 
 Here is the folder structure of 3D-Portfolio.
