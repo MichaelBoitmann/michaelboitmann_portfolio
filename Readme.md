@@ -1,19 +1,21 @@
-# My 3D Portfolio Project
-![image](https://github.com/MichaelBoitmann/michaelboitmann_portfolio/assets/55775047/dd939431-2693-4498-a23d-481185c0220e)
+<a name="readme-top"></a>
+<div align="center">
+ # My 3D Portfolio Project
+ ![image](https://github.com/MichaelBoitmann/michaelboitmann_portfolio/assets/55775047/dd939431-2693-4498-a23d-481185c0220e)
 
-### :space_invader: Tech Stack
+ ### :space_invader: Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,threejs,tailwind,vite,render)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,js,threejs,tailwind,vite,render)](https://skillicons.dev)
 
- <h4>
-    <a href="https://michaelboitmann-portfolio.onrender.com/" target="_blank">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio" target="_blank">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio/issues" target="_blank">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio/issues" target="_blank">Request Feature</a>
-  </h4>
+  <h4>
+     <a href="https://michaelboitmann-portfolio.onrender.com/" target="_blank">View Demo</a>
+   <span> · </span>
+     <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio" target="_blank">Documentation</a>
+   <span> · </span>
+     <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio/issues" target="_blank">Report Bug</a>
+   <span> · </span>
+     <a href="https://github.com/MichaelBoitmann/michaelboitmann_portfolio/issues" target="_blank">Request Feature</a>
+   </h4>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
