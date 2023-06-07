@@ -2,11 +2,11 @@
  ![image](https://github.com/MichaelBoitmann/michaelboitmann_portfolio/assets/55775047/dd939431-2693-4498-a23d-481185c0220e)
 
 <a name="readme-top"></a>
-<div align="center">
+
  ### :space_invader: Tech Stack
 
  [![My Skills](https://skillicons.dev/icons?i=react,js,threejs,tailwind,vite,render)](https://skillicons.dev)
-
+<div align="center">
   <h4>
      <a href="https://michaelboitmann-portfolio.onrender.com/" target="_blank">View Demo</a>
    <span> · </span>
