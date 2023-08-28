@@ -176,15 +176,15 @@ import {
       name: "Jude Madriaga",
       designation: "Senior Consultant",
       company: "Field Force 4 Ltd",
-      image: "https://www.linkedin.com/in/jude-madriaga-5b8278194/overlay/photo/",
+      image: "https://media.licdn.com/dms/image/D5603AQHokY83ICI9uw/profile-displayphoto-shrink_800_800/0/1663635168688?e=1698883200&v=beta&t=fpfhf2bqpHdtnYFnvOBq8rxMXvReEVfG816SI3B-YIo",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+        "Boitmann was also humble and a go-to person when needed. Michael was always interested in learning new things and keen to share his knowledge with fellow colleagues. Even under extreme pressure, he maintained calm and completed work with great workmanship within the timeline. He was always on time to work. With his great workmanship and hard, he got recognized and promoted within the team to senior.",
+      name: "Sandeep Kotha",
+      designation: "",
+      company: "Info Media Pvt Ltd, Australia",
+      image: "https://media.licdn.com/dms/image/C5603AQFSWvWTW2IkfA/profile-displayphoto-shrink_800_800/0/1604859773706?e=1698883200&v=beta&t=Twia8qpDUj5M2IrRh0p7vG_YenxO7IuSAZlPdEqij1U",
     },
     {
       testimonial:
