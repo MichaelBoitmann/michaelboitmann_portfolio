@@ -97,10 +97,12 @@ At the main folder execute the following command in console to run the developme
 * <strong>React Three Fiber</strong> - a popular library for creating 3D graphics with ThreeJS in React
 * <strong>TailwindCSS</strong> - a popular utility-first CSS styling framework
 * <strong>Framer Motion</strong> - the most popular library used to bring your React website to life with animations You'll also learn how to:
-* Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-* Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-* Implement sending emails through a form on the website
-* Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+* <strong>Render.com</strong> - free site where this project was deployed. This is a unified cloud to build and run all your apps and webistes.
+* <strong>EmailJS</strong> -  helps to send emails using client-side technologies only and no server is required.
+* Loaded, created and customized stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
+* Code are reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
+* Implemented sending emails through a form on the website
+* Learn the responsiveness across all devices with improved site's performance using Suspense and Preload.
 
 ### :bangbang: Folder Structure
 
